@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on fullstack<br>👯 I’m looking to collaborate on web applications<br>🌱 I’m currently learning JavaScript for frontend interactivity<br>💬 Ask me about  backend development, Flask,django,html css , web design<br>⚡ Fun fact : I can spend hours debugging code but still get just as excited as the first time when everything finally works perfectly!
+🔭 I’m currently working on full-stack development.<br>👯 I’m looking to collaborate on web applications<br>🌱 I’m currently learning JavaScript for frontend interactivity<br>💬 Ask me about  backend development, Flask,django,html css , web design<br>⚡ Fun fact : I can spend hours debugging code but still get just as excited as the first time when everything finally works perfectly!
 
 
 
